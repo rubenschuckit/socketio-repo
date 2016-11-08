@@ -1,0 +1,21 @@
+{
+  "name": "group",
+  "version": "1.0.0",
+  "description": "group project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ruben",
+  "license": "ISC",
+  "engines": {
+    "node": "4.4.7"
+  },
+  "dependencies": {
+    "mime": "^1.3.4",
+    "mysql": "^2.9.0",
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {}
+}
